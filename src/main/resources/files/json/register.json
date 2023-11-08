@@ -1,0 +1,13 @@
+
+{
+  "username": "ivan8999",
+  "password": "123456",
+  "confirmPassword": "123456",
+  "email": "ivan@test.com",
+  "firstName": "Ivan",
+  "lastName": "Ivanov",
+  "bankAccount": {
+    "deposit": 7000.00,
+    "bank": "Example Bank"
+  }
+}

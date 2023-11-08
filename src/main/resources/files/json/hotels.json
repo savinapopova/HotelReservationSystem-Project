@@ -1,0 +1,34 @@
+
+[
+  {
+    "name": "Hotel Paradise",
+    "floors": 3,
+    "country": "Bulgaria",
+    "stars": "FOUR_STAR",
+    "bankAccount": {
+      "deposit": 1000.00,
+      "bank": "Example Bank"
+    }
+  },
+  {
+    "name": "Beachfront Resort",
+    "floors": 3,
+    "country": "Greece",
+    "stars": "FIVE_STAR",
+    "bankAccount": {
+      "deposit": 2000.00,
+      "bank": "Example Bank"
+    }
+  },
+  {
+    "name": "Mountain Lodge",
+    "floors": 3,
+    "country": "Austria",
+    "stars": "THREE_STAR",
+    "bankAccount": {
+      "deposit": 3000.00,
+      "bank": "Example Bank"
+    }
+  }
+]
+

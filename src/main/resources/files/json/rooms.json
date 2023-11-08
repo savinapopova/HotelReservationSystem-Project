@@ -1,0 +1,187 @@
+[
+  {
+    "roomNumber": 101,
+    "floor": 1,
+    "type": "DELUXE",
+    "pricePerNight": 200.00,
+    "cancellationFee": 50.00,
+    "maximumOccupancy": 2,
+    "imageUrl": "deluxe_room_101.jpg",
+    "hotel": "Hotel Paradise"
+  },
+  {
+    "roomNumber": 102,
+    "floor": 1,
+    "type": "DELUXE",
+    "pricePerNight": 200.00,
+    "cancellationFee": 50.00,
+    "maximumOccupancy": 2,
+    "imageUrl": "deluxe_room_102.jpg",
+    "hotel": "Hotel Paradise"
+  },
+  {
+    "roomNumber": 201,
+    "floor": 2,
+    "type": "SUITE",
+    "pricePerNight": 350.00,
+    "cancellationFee": 100.00,
+    "maximumOccupancy": 4,
+    "imageUrl": "suite_room_201.jpg",
+    "hotel": "Hotel Paradise"
+  },
+  {
+    "roomNumber": 202,
+    "floor": 2,
+    "type": "SUITE",
+    "pricePerNight": 350.00,
+    "cancellationFee": 100.00,
+    "maximumOccupancy": 4,
+    "imageUrl": "suite_room_202.jpg",
+    "hotel": "Hotel Paradise"
+  },
+  {
+    "roomNumber": 301,
+    "floor": 3,
+    "type": "SINGLE",
+    "pricePerNight": 100.00,
+    "cancellationFee": 25.00,
+    "maximumOccupancy": 1,
+    "imageUrl": "single_room_301.jpg",
+    "hotel": "Hotel Paradise"
+  },
+  {
+    "roomNumber": 302,
+    "floor": 3,
+    "type": "SINGLE",
+    "pricePerNight": 100.00,
+    "cancellationFee": 25.00,
+    "maximumOccupancy": 1,
+    "imageUrl": "single_room_302.jpg",
+    "hotel": "Hotel Paradise"
+  },
+
+  {
+    "roomNumber": 101,
+    "floor": 1,
+    "type": "DOUBLE",
+    "pricePerNight": 180.00,
+    "cancellationFee": 45.00,
+    "maximumOccupancy": 2,
+    "imageUrl": "double_room_101.jpg",
+    "hotel": "Beachfront Resort"
+  },
+  {
+    "roomNumber": 102,
+    "floor": 1,
+    "type": "DOUBLE",
+    "pricePerNight": 180.00,
+    "cancellationFee": 45.00,
+    "maximumOccupancy": 2,
+    "imageUrl": "double_room_102.jpg",
+    "hotel": "Beachfront Resort"
+  },
+  {
+    "roomNumber": 201,
+    "floor": 2,
+    "type": "APARTMENT",
+    "pricePerNight": 450.00,
+    "cancellationFee": 150.00,
+    "maximumOccupancy": 6,
+    "imageUrl": "apartment_room_201.jpg",
+    "hotel": "Beachfront Resort"
+  },
+  {
+    "roomNumber": 202,
+    "floor": 2,
+    "type": "APARTMENT",
+    "pricePerNight": 450.00,
+    "cancellationFee": 150.00,
+    "maximumOccupancy": 6,
+    "imageUrl": "apartment_room_202.jpg",
+    "hotel": "Beachfront Resort"
+  },
+  {
+    "roomNumber": 301,
+    "floor": 3,
+    "type": "SINGLE",
+    "pricePerNight": 100.00,
+    "cancellationFee": 25.00,
+    "maximumOccupancy": 1,
+    "imageUrl": "single_room_301.jpg",
+    "hotel": "Beachfront Resort"
+  },
+  {
+    "roomNumber": 302,
+    "floor": 3,
+    "type": "SINGLE",
+    "pricePerNight": 100.00,
+    "cancellationFee": 25.00,
+    "maximumOccupancy": 1,
+    "imageUrl": "single_room_302.jpg",
+    "hotel": "Beachfront Resort"
+  },
+
+  {
+    "roomNumber": 101,
+    "floor": 1,
+    "type": "DOUBLE",
+    "pricePerNight": 180.00,
+    "cancellationFee": 45.00,
+    "maximumOccupancy": 2,
+    "imageUrl": "double_room_101.jpg",
+    "hotel": "Mountain Lodge"
+  },
+  {
+    "roomNumber": 102,
+    "floor": 1,
+    "type": "DOUBLE",
+    "pricePerNight": 180.00,
+    "cancellationFee": 45.00,
+    "maximumOccupancy": 2,
+    "imageUrl": "double_room_102.jpg",
+    "hotel": "Mountain Lodge"
+  },
+  {
+    "roomNumber": 201,
+    "floor": 2,
+    "type": "APARTMENT",
+    "pricePerNight": 450.00,
+    "cancellationFee": 150.00,
+    "maximumOccupancy": 6,
+    "imageUrl": "apartment_room_201.jpg",
+    "hotel": "Mountain Lodge"
+  },
+  {
+    "roomNumber": 202,
+    "floor": 2,
+    "type": "APARTMENT",
+    "pricePerNight": 450.00,
+    "cancellationFee": 150.00,
+    "maximumOccupancy": 6,
+    "imageUrl": "apartment_room_202.jpg",
+    "hotel": "Mountain Lodge"
+  },
+  {
+    "roomNumber": 301,
+    "floor": 3,
+    "type": "SINGLE",
+    "pricePerNight": 100.00,
+    "cancellationFee": 25.00,
+    "maximumOccupancy": 1,
+    "imageUrl": "single_room_301.jpg",
+    "hotel": "Mountain Lodge"
+  },
+  {
+    "roomNumber": 302,
+    "floor": 3,
+    "type": "SINGLE",
+    "pricePerNight": 100.00,
+    "cancellationFee": 25.00,
+    "maximumOccupancy": 1,
+    "imageUrl": "single_room_302.jpg",
+    "hotel": "Mountain Lodge"
+  }
+
+
+
+]

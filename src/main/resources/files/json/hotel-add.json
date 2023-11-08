@@ -1,0 +1,10 @@
+{
+  "name": "Ramada Resort",
+  "floors": 7,
+  "country": "Turkey",
+  "stars": "FIVE_STAR",
+  "bankAccount": {
+    "deposit": 8000.00,
+    "bank": "Example Bank"
+  }
+}
